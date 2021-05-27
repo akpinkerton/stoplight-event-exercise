@@ -35,7 +35,7 @@ Add new DOM event listeners and handlers to log the mouse state of each button.
 - [MDN - `mouseenter`](https://developer.mozilla.org/en-US/docs/Web/Events/mouseenter)
 - [MDN - `mouseleave`](https://developer.mozilla.org/en-US/docs/Web/Events/mouseleave)
 - [MDN - `Event.target`](https://developer.mozilla.org/en-US/docs/Web/API/Event/target)
-
+e
 ## Bonus
 
 Add **one** DOM event listener and **one** handler to log the state of each bulb.
